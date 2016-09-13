@@ -1,0 +1,49 @@
+.container-fluid{
+	background-color: yellow;
+	height: 70px;
+}
+a {
+	text-decoration:none;
+	text-align: center;
+	color: black; 
+	font-size: 18px; 
+}
+li{
+	display: inline-block;
+	margin-left: 200px;
+	padding-top:30px;	
+}
+.torta{
+	background-color: pink;
+	width: 1200;
+	height: 400px;
+	padding-top: 0px;
+}
+img{
+	width: 120px;
+	margin-left: 40px;
+	padding-top:25px;
+}
+h1{
+	font-family: 'Merienda One', cursive;
+	font-size: 38px;
+	color: white;
+	margin-top: 60px;
+	margin-left: 150px;
+}
+p{
+	font-family: 'Merienda One', cursive;
+	font-size: 18px;
+	color: white;
+	width: 500px;
+	margin-left: 150px;
+	margin-top: 10px;
+}
+.marco{
+	background: violet;
+	width: 250px;
+	height: 150px;
+	border-radius: 8px;
+	margin-top:60;
+	margin-left: 200px;
+}
