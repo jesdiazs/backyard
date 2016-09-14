@@ -1,0 +1,23 @@
+
+@media (min-width: 535px) and (max-width: 824px){
+	img{
+		text-align: center;
+		margin-left: 40%;
+	}
+	col-8{
+		width: 100%;
+	}
+	col-4{
+		width: 100%;
+	}
+	
+	h1  h2 p li{
+		font-size: 12px;
+		text-align: center;
+		margin-top: 10px;
+		margin-left: 0% auto;
+	}
+	.ultima{
+		width: 100%;
+	}
+}
